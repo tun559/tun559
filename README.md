@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 Learning in github ✨
-🎓 Computer Science Student @ University of Melbourne  
-💻 Interested in AI, Automation, and Data Analysis  
+
+🎓 Computer Science Student 
 🌏 Based in Melbourne / China  
 
 ---
