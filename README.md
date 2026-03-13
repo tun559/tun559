@@ -1,6 +1,25 @@
 ## Hi there 👋
 
 Learning in github ✨
+🎓 Computer Science Student @ University of Melbourne  
+💻 Interested in AI, Automation, and Data Analysis  
+🌏 Based in Melbourne / China  
+
+---
+
+## 🚀 About Me
+
+- 🎓 Bachelor of Computer Science at University of Melbourne
+- 🤖 Interested in AI, Machine Learning and Automation
+- 🛠 Experience with Python, Java, and SQL
+- 🌱 Currently learning Software Modelling and Design
+
+---
+
+**Languages**
+
+Python | Java | SQL | C  
+
 <!--
 **tun559/tun559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
