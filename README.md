@@ -11,7 +11,7 @@ Learning in github ✨
 
 - 🎓 Bachelor of Computer Science at University of Melbourne
 - 🤖 Interested in AI, Machine Learning and Automation
-- 🛠 Experience with Python, Java, and SQL
+- 🛠 Experience with Python, Java, C, and SQL
 - 🌱 Currently learning Software Modelling and Design
 
 ---
